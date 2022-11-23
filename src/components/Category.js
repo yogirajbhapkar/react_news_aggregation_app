@@ -111,6 +111,7 @@ const Category = (props) => {
 {/* To get news for category selected from dropdown */}
 
          <div className="horizontal-div">
+            <h3>Show News</h3>
             <p>
                <select id="selcategory" name="category" onChange={getNews}>
                   <option>-- select category --</option>
