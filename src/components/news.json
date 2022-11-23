@@ -1,0 +1,38 @@
+{
+	"Politics": [
+		{
+			"title": "Modi takes on Cong",
+			"description": "Calling me names, trying to show me my aukat but silent on development",
+			"source": "https://indianexpress.com/article/political-pulse/gujarat-assembly-polls-pm-modi-congress-wants-to-show-me-my-aukat-but-silent-on-development-8281664/",
+			"author": "indianexpress"
+		},
+		{
+			"title": "Road to 2024",
+			"description": "Rahul may have stuck to his guns on Savarkar, but will the party too?",
+			"source": "https://indianexpress.com/article/political-pulse/road-to-2024-rahul-gandhi-may-have-stuck-to-his-guns-on-savarkar-but-will-the-congress-too-8281169/",
+			"author": "indianexpress"
+		}
+	],
+	"Technology": [
+		{
+			"title": "Hive Social crosses the 1 million users mark: What is it and how to sign up",
+			"description": "Hive Social is seeing a huge upsurge in users with its Twitter account announcing it crossed 1 million “besties” yesterday",
+			"source": "https://indianexpress.com/article/technology/tech-news-technology/hive-social-twitter-alternative-crosses-the-1-million-users-mark-whats-it-and-how-to-sign-up-8283398/",
+			"author": "indianexpress"
+		},
+		{
+			"title": "iPhone 15 Pro",
+			"description": "5 things to know about Apple’s 2023 flagship smartphone",
+			"source": "https://indianexpress.com/article/technology/mobile-tabs/iphone-15-pro-5-things-to-know-about-apples-2023-flagship-smartphone-8281977/",
+			"author": "indianexpress"
+		}
+	],
+	"Sports": [
+		{
+			"title": "Saudi shock shakes World Cup, stuns Argentina",
+			"description": "Rallying from a one-goal deficit and listlessness in the first half, the Saudis had managed to upset tournament favourites Argentina 2-1",
+			"source": "https://indianexpress.com/article/sports/football/saudi-shock-shakes-world-cup-stun-argentina-8283701/",
+			"author": "indianexpress"
+		}
+	]
+}
